@@ -1,1 +1,1 @@
-# Adept Mind Coding CHallenge Submission
+# Adept Mind Coding Challenge Submission
